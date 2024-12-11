@@ -1,7 +1,5 @@
 # Santase Game
 
-This repository contains a Java implementation of a simplified version of the Santase card game. It includes classes and methods to handle card deck creation, gameplay mechanics, trump suit selection, and calculating players' chances of winning based on their hands.
-
 ---
 
 ## Features
